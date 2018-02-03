@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "619865441907",
+    "firebase_url": "https://my-bicycle-shop.firebaseio.com",
+    "project_id": "my-bicycle-shop",
+    "storage_bucket": "my-bicycle-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619865441907:android:132f081898a71719",
+        "android_client_info": {
+          "package_name": "com.gabrielmamani.bicycleshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619865441907-ja53bdbae8mtusm1lch6oahqgvtes89p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gabrielmamani.bicycleshop",
+            "certificate_hash": "1d3c755785fbe5b1a95bb737c3ec5c472fd24177"
+          }
+        },
+        {
+          "client_id": "619865441907-v6r7qvnar5c5fhv41baq1rvp770dns3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7yt9FGbO_x709fmjXrY0cyCqbR3fgbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619865441907-v6r7qvnar5c5fhv41baq1rvp770dns3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
