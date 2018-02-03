@@ -123,4 +123,6 @@ public class SignInActivity extends AppCompatActivity implements GoogleApiClient
         Log.d("TAG", "onConnectionFailed: " + connectionResult);
         Toast.makeText(this,"Google Play Services error.", Toast.LENGTH_SHORT).show();
     }
+
+    //aqui gabriel
 }
